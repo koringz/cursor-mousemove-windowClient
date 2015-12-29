@@ -21,6 +21,6 @@ function Box(e,t1,t2,rect){
 	t2.value = this.clitx + "," +this.clity;
 
 	rect.style.display = "block";
-	rect.style.left = this.scrx + "px";
+	rect.style.left = this.clitx + "px";
 	rect.style.top = this.clity + "px";
 }
