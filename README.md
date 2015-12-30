@@ -5,8 +5,13 @@
 ## Browser
 
 支持所有主流浏览器:
+
 *firefox
+
 *chrome
+
 *opera
+
 *safira
+
 *ie6+
